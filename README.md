@@ -1,7 +1,4 @@
 # github
-- Koshkin
-* zxcirok
-+ Stovmanenko993
-1. how
-2. are
-3. you
+- [x] #322
+- [ ] mdk.05.02
+- [ ] home work

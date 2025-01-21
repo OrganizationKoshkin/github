@@ -1,2 +1,2 @@
 # github
-HEX '#0969DA'
+`#0969DA`
